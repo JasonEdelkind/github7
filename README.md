@@ -1,1 +1,3 @@
-# github7
+# github6
+
+This assignment explores the model selection process using gila monster home range size data that I slowly and painfully bled for over the last year. If this is the culmination of my thesis work before I die from terminal graduate student exhaustion, I would like to entrust all of my gila monster data and R scripts to my lab mate Lexy Anderson in the hopes that she will shortly follow in my footsteps of dying from terminal graduate student exhaustion when presented with two master's thesis projects.  

@@ -1,6 +1,10 @@
 # History files
 .Rhistory
 .Rapp.history
+data/
+github6.Rproj
+images/
+scripts/
 
 # Session Data files
 .RData
